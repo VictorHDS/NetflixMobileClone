@@ -1,0 +1,6 @@
+/* Import custom font to the project */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap');
+/* Reset the default format */
+@import '../utils/reset.css';
+/* Apply a general CSS to the project */
+@import '../utils/general.css';
