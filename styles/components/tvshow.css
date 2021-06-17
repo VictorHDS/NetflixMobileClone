@@ -1,0 +1,30 @@
+.tvshow{
+    display: flex;
+    overflow: auto;
+}
+.tvshow img:not(:last-child){
+    margin-right: 7px;
+}
+.tvshow img:first-child{
+    margin-left: 12px;
+}
+.tvshow img:last-child{
+    margin-right: 12px;
+}
+.tvshow__img{
+    width: 103px;
+    height: 161px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.tvshow__img--big{
+    width: 154px;
+    height: 251px;
+}
+.tvshow__img--circle{
+    flex-shrink: 0;
+    object-fit:cover;
+    border-radius: 50%;
+    width: 102px;
+    height: 102px;
+}
