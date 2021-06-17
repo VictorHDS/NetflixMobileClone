@@ -1,5 +1,6 @@
 /* This index is responsable to import styles from the pages */
 @import '../utils/index.css';
 @import "../components/status-bar.css";
+@import '../components/navbar.css';
 @import '../components/bottom-navbar.css';
 @import '../components/tvshow.css';
