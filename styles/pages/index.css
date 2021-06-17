@@ -2,5 +2,6 @@
 @import '../utils/index.css';
 @import "../components/status-bar.css";
 @import '../components/navbar.css';
+@import '../components/quickaccess.css';
 @import '../components/bottom-navbar.css';
 @import '../components/tvshow.css';

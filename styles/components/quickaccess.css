@@ -1,0 +1,42 @@
+.quickaccess{
+    width: 75%;
+    margin: 0 auto;
+}
+.quickaccess__top{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 11px;
+}
+.quickaccess__title{
+    margin-left: 5px;
+    font-weight: 700;
+    font-size: 13px;
+}
+.quickaccess__bottom{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.quickaccess__icon{
+   text-align: center;
+}
+.quickaccess__text{
+    font-size: 14px;
+    margin-top: 3px;
+}
+.quickaccess-button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 110px;
+    height: 45px;
+    border-radius: 6px;
+    background-color: #c4c4c4;
+}
+.quickaccess-button__text{
+    font-size: 20px;
+    font-weight: 700;
+    margin-left: 15px;
+    color: #000;
+}
