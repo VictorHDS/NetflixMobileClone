@@ -11,6 +11,10 @@
 .profile__img{
     width: 65px;
     height: 60;
+    transform: transform ease-in-out 200ms;
+}
+.profile__img:hover{
+    transform: scale(1.1);
 }
 .profile__text{
     font-size: 12px;
