@@ -14,5 +14,15 @@
 }
 .profile__text{
     font-size: 12px;
-    margin-top: 5px;
+    margin-top: 7px;
+}
+.profile--grid{
+    display: grid;
+    grid-gap: 22px;
+    grid-template-columns: 100px 100px;
+    justify-content: center;
+}
+.profile__img--big{
+    width: 100px;
+    height: 92px;
 }
