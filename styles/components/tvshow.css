@@ -1,6 +1,11 @@
 .tvshow{
     display: flex;
     overflow: auto;
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+}
+.tvshow::-webkit-scrollbar{
+    display: none;
 }
 .tvshow img:not(:last-child){
     margin-right: 7px;
