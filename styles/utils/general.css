@@ -1,5 +1,7 @@
 body{
     background-color: black;
+    max-width: 430px;
+    margin: 0 auto;
 }
 p,h1,h2,h3,span,strong{
     color: white;
