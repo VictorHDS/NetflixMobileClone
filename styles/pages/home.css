@@ -1,0 +1,35 @@
+@import '../utils/index.css';
+@import "../components/status-bar.css";
+@import '../components/navbar.css';
+@import '../components/quickaccess.css';
+@import '../components/bottom-navbar.css';
+@import '../components/tvshow.css';
+
+body{
+    position: relative;
+}
+.wallpaper{
+   position: absolute; 
+   top: 0;
+   z-index: -1;
+}
+.quickaccess{
+    margin-top: 293px;
+    margin-bottom: 43px;
+}
+.title{
+    margin-left: 12px;
+    font-weight: 700;
+    font-size: 21px;
+}
+.title--big{
+    font-size: 27px;
+}
+#previews{
+    margin-top: 23px;
+    margin-bottom: 28px;
+}
+.tvshow{
+    margin-top: 14px;
+    margin-bottom: 22px;
+}
