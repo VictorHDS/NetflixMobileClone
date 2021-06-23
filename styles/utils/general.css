@@ -1,9 +1,63 @@
 body{
     background-color: black;
-    max-width: 430px;
-    margin: 0 auto;
 }
 p,h1,h2,h3,span,strong{
     color: white;
     font-family: "Roboto", Arial, Helvetica, sans-serif;
+}
+.max-resolution{
+    display: none;
+    text-align: center;
+    margin: 0 auto;
+    height: 100vh;
+    width: 80vw;
+}
+.max-resolution__text{
+    font-size: 20px;
+}
+.max-resolution__text--tablet{
+    display: block;
+}
+.max-resolution__text--notebook{
+    display: none;
+}
+.max-resolution__video{
+    display: none;
+}
+.content{
+    display: block;
+}
+/* Tablets */
+@media screen and (min-width:500px) {
+    .max-resolution{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+    .content{
+        display: none;
+    }
+}
+/* Notebooks */
+@media screen and (min-width:992px) {
+    .max-resolution__text--tablet{
+        display: none;
+    }
+    .max-resolution__text--notebook{
+        display: block;
+    }
+    .max-resolution__video{
+        display: none;
+    }
+}
+@media screen and (min-width:1760px) {
+    .max-resolution__text--tablet{
+        display: none;
+    }
+    .max-resolution__text--notebook{
+        display: none;
+    }
+    .max-resolution__video{
+        display: block;
+    }
 }
