@@ -1,0 +1,13 @@
+.load-circle img{
+    width: 20px;
+    transform: rotate(90deg);
+}
+.load-bars{
+    display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.load-bars img{
+    width: 10px;
+    margin-right: 10px;
+}

@@ -8,3 +8,5 @@
 
 
 ## To scrolling in width, try "Shift + MMB"
+
+### Load component for Media Querie added

@@ -9,6 +9,7 @@
 @import '../components/search-input.css';
 @import '../components/logo.css';
 @import '../components/edit-bar.css';
+@import '../components/load.css';
 
 .center{
     display: flex;
