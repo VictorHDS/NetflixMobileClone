@@ -5,6 +5,9 @@ p,h1,h2,h3,span,strong{
     color: white;
     font-family: "Roboto", Arial, Helvetica, sans-serif;
 }
+a{
+    text-decoration: none;
+}
 .max-resolution{
     display: none;
     text-align: center;
@@ -19,9 +22,6 @@ p,h1,h2,h3,span,strong{
     display: block;
 }
 .max-resolution__text--notebook{
-    display: none;
-}
-.max-resolution__video{
     display: none;
 }
 .content{
@@ -46,9 +46,6 @@ p,h1,h2,h3,span,strong{
     .max-resolution__text--notebook{
         display: block;
     }
-    .max-resolution__video{
-        display: none;
-    }
 }
 @media screen and (min-width:1760px) {
     .max-resolution__text--tablet{
@@ -56,8 +53,5 @@ p,h1,h2,h3,span,strong{
     }
     .max-resolution__text--notebook{
         display: none;
-    }
-    .max-resolution__video{
-        display: block;
     }
 }
