@@ -1,0 +1,12 @@
+@import '../components/logo.css';
+
+.edit-bar{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 90%;
+    margin: 0 auto;
+}
+.edit-bar__space{
+    width: 24px;
+}
