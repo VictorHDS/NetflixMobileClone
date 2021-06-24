@@ -1,0 +1,14 @@
+@import '../utils/index.css';
+@import "../components/status-bar.css";
+@import '../components/edit-bar.css';
+@import '../components/profile.css';
+
+.edit-bar{
+    margin-top: 13px;
+}
+.center{
+    display: flex;
+    height: calc(100vh - 94.33px);
+    justify-content: center;
+    align-items: center;
+}
