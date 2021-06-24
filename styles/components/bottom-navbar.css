@@ -16,9 +16,12 @@
 .bottom-navbar__text{
     font-style: normal;
     font-weight: 500;
-    font-size: 8.2px;
+    font-size: 10px;
     line-height: 30px;
     text-align: center;
     color: #8C8787;
     margin-top: 2px;
+}
+.bottom-navbar__text--active{
+    color: #fff;
 }

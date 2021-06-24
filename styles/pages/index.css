@@ -8,6 +8,7 @@
 @import '../components/search-movie.css';
 @import '../components/search-input.css';
 @import '../components/logo.css';
+@import '../components/edit-bar.css';
 
 .center{
     display: flex;

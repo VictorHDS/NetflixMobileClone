@@ -4,15 +4,17 @@
 .search-movie{
     display: flex;
     align-items: center;
+    height: 76px;
 }
 .searh-movie__img{
-    height: 76px;
     width: 146px;
+    height: 76px;
+    border-radius: 2px;
 }
 .search-movie__play{
     display: flex;
     align-items: center;
     justify-content: space-between;
-    width: 55%;
+    width: 90%;
     margin: 0 auto;
 }
