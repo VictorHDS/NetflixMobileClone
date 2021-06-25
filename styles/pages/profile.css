@@ -12,3 +12,17 @@
     justify-content: center;
     align-items: center;
 }
+#animation{
+    animation-name: pageLoad;
+    animation-duration: 1000ms;
+}
+@keyframes pageLoad{
+    from{
+        transform: scale(0.9);
+        opacity: 0;
+    }
+    to{
+        transform: scale(1);
+        opacity: 1;
+    }
+}
