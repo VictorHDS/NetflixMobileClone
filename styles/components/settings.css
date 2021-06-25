@@ -1,0 +1,17 @@
+.settings-check{
+    display: flex;
+    align-items: center;
+    padding-left: 27px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-bottom: 1px solid #424242;
+}
+.settings-check__text{
+    padding-left: 6px;
+}
+.settings__text{
+    padding-left: 27px;
+    margin-top: 6px;
+    margin-bottom: 6px;
+    line-height: 30px;
+}
