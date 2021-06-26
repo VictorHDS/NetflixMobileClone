@@ -1,3 +1,56 @@
 @import '../utils/index.css';
 @import "../components/status-bar.css";
 @import '../components/bottom-navbar.css';
+
+.notifications{
+    display: flex;
+    width: 90%;
+    margin: 0 auto;
+    align-items: center;
+    margin-bottom: 18px;
+    font-weight: bold;
+    font-size: 17px;
+}
+.notifications img{
+    margin-right: 7px;
+}
+.new-arrival{
+    margin-bottom: 25px;
+    background-color: #424242;
+}
+.new-arrival img{
+    width: 113px;
+    height: 55px;
+    margin-right: 30px;
+}
+.new-arrival-01{
+    display: flex;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 12px;
+}
+.new-arrival-02{
+    display: flex;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 12px;
+}
+.new-arrival__text{
+    height: 47px;
+}
+.new-arrival__text__new{
+    font-weight: 400;
+    font-size: 14px;
+    margin-bottom: 7px;
+}
+.new-arrival__text__title{
+    font-weight: 400;
+    font-size: 14px;
+    color: rgba(255, 255, 255, 0.83);
+    margin-bottom: 7px;
+}
+.new-arrival__text__paragraph{
+    font-weight: 500;
+    font-size: 10.5095px;
+    color: rgba(255, 255, 255, 0.48);
+}
