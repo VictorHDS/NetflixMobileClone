@@ -54,3 +54,55 @@
     font-size: 10.5095px;
     color: rgba(255, 255, 255, 0.48);
 }
+.arrivals-spotlight__icons{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: flex-end;
+    width: 90%;
+    margin: 0 auto;
+    padding-top: 20px;
+}
+.arrivals-spotlight__remind-me{
+    margin-right: 45px;
+}
+.arrivals-spotlight__icon__text{
+    margin-top: 7px;
+    font-size: 11px;
+    font-weight: 400;
+}
+.arrivals-spotlight--desc{
+    width: 95%;
+    margin: 0 auto;
+}
+.arrivals-spotlight--desc__text{
+    font-size: 11px;
+    font-weight: 400;
+}
+.arrivals-spotlight--desc__release-date{
+    padding-top: 13px;
+    font-size: 11px;
+    font-weight: 400;
+    color: rgba(255, 255, 255, 0.83);
+}
+.arrivals-spotlight--desc__title{
+    padding-top: 13px;
+    font-weight: 700;
+    font-size: 18.66px;
+}
+.arrivals-spotlight--desc__text{
+    padding-top: 13px;
+    font-size: 11px;
+    font-weight: 400;
+    color: rgba(255, 255, 255, 0.83);
+}
+.arrivals-spotlight--genres{
+    padding-top: 13px;
+    padding-bottom: 17px;
+    display: flex;
+    justify-content: space-between;
+    width: 95%;
+    margin: 0 auto;
+    font-size: 11px;
+    font-weight: 500;
+}
