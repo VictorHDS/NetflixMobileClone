@@ -9,23 +9,23 @@
     <title>Netflix | Home</title>
 </head>
 <body>
-    <div class="content">
-        <div class="status-bar">
+    <main class="content">
+        <header class="status-bar">
             <p class="status-bar__time">9:41</p>
             <div class="status-bar__icons">
                 <img src="./assets/icons/cellular-connection.svg" alt="Conexão de Celular">
                 <img src="./assets/icons/wifi.svg" alt="WiFi">
                 <img src="./assets/icons/battery.svg" alt="Bateria">
             </div>
-        </div>
-        <div class="navbar">
+        </header>
+        <nav class="navbar">
             <img class="navbar__img" src="/assets/images/NetflixLogo.png" alt="Netflix Logo">
             <p class="navbar__text">TV Shows</p>
             <p class="navbar__text">Movies</p>
             <p class="navbar__text">My List</p>
-        </div>
+        </nav>
         <img class="wallpaper" src="/assets/images/HomeWallpaper.png" alt="Papel de Parede">
-        <div class="quickaccess">
+        <section class="quickaccess">
             <!-- Separar um componente encima e outro embaixo, por isso uma div pra top e outra pra bottom -->
             <div class="quickaccess__top">
                 <img src="/assets/icons/top10.svg" alt="Top10">
@@ -45,50 +45,50 @@
                     <p class="quickaccess__text">Info</p>
                 </div>
             </div>
-        </div>
+        </section>
         <h1 class="title title--big">Previews</h1>
-        <div class="tvshow" id="previews" style="margin-bottom: 10px;">
+        <section class="tvshow" id="previews" style="margin-bottom: 10px;">
             <img class="tvshow__img--circle" src="./assets/images/tvshow01.png" alt="Gotham">
             <img class="tvshow__img--circle" src="./assets/images/tvshow02.png" alt="Barbarians">
             <img class="tvshow__img--circle" src="./assets/images/tvshow03.png" alt="The Black List">
             <img class="tvshow__img--circle" src="./assets/images/tvshow04.png" alt="Prison Break">
-        </div>
+        </section>
         <h1 class="title">Popular on Netflix</h1>
-        <div class="tvshow" style="margin-bottom: 10px;">
+        <section class="tvshow" style="margin-bottom: 10px;">
             <img class="tvshow__img" src="./assets/images/tvshow01.png" alt="Gotham">
             <img class="tvshow__img" src="./assets/images/tvshow02.png" alt="Barbarians">
             <img class="tvshow__img" src="./assets/images/tvshow03.png" alt="The Black List">
             <img class="tvshow__img" src="./assets/images/tvshow04.png" alt="Prison Break">
-        </div>
+        </section>
         <h1 class="title">Trending Now</h1>
-        <div class="tvshow" style="margin-bottom: 10px;">
+        <section class="tvshow" style="margin-bottom: 10px;">
             <img class="tvshow__img" src="./assets/images/tvshow01.png" alt="Gotham">
             <img class="tvshow__img" src="./assets/images/tvshow02.png" alt="Barbarians">
             <img class="tvshow__img" src="./assets/images/tvshow03.png" alt="The Black List">
             <img class="tvshow__img" src="./assets/images/tvshow04.png" alt="Prison Break">
-        </div>
+        </section>
         <h1 class="title">Top 10 in Brazil Today</h1>
-        <div class="tvshow" style="margin-bottom: 10px;">
+        <section class="tvshow" style="margin-bottom: 10px;">
             <img class="tvshow__img" src="./assets/images/tvshow01.png" alt="Gotham">
             <img class="tvshow__img" src="./assets/images/tvshow02.png" alt="Barbarians">
             <img class="tvshow__img" src="./assets/images/tvshow03.png" alt="The Black List">
             <img class="tvshow__img" src="./assets/images/tvshow04.png" alt="Prison Break">
-        </div>
+        </section>
         <h1 class="title">My List</h1>
-        <div class="tvshow" style="margin-bottom: 10px;">
+        <section class="tvshow" style="margin-bottom: 10px;">
             <img class="tvshow__img" src="./assets/images/tvshow01.png" alt="Gotham">
             <img class="tvshow__img" src="./assets/images/tvshow02.png" alt="Barbarians">
             <img class="tvshow__img" src="./assets/images/tvshow03.png" alt="The Black List">
             <img class="tvshow__img" src="./assets/images/tvshow04.png" alt="Prison Break">
-        </div>
+        </section>
         <h1 class="title">Netflix Originals</h1>
-        <div class="tvshow" style="margin-bottom: 10px;">
+        <section class="tvshow" style="margin-bottom: 10px;">
             <img class="tvshow__img--big" src="./assets/images/tvshow01.png" alt="Gotham">
             <img class="tvshow__img--big" src="./assets/images/tvshow02.png" alt="Barbarians">
             <img class="tvshow__img--big" src="./assets/images/tvshow03.png" alt="The Black List">
             <img class="tvshow__img--big" src="./assets/images/tvshow04.png" alt="Prison Break">
-        </div>
-        <div class="bottom-navbar__background">
+        </section>
+        <nav class="bottom-navbar__background">
             <div class="bottom-navbar">
                 <a href="home.html" class="bottom-navbar__icon">
                     <img src="/assets/icons/home-enlighted.svg" alt="Home">
@@ -111,12 +111,12 @@
                     <p class="bottom-navbar__text">More</p>
                 </a>
             </div>
-        </div>
-    </div>
-    <div class="max-resolution">
+        </nav>
+    </main>
+    <section class="max-resolution">
         <p class="max-resolution__text max-resolution__text--tablet">Parece que sua resolução é a de um Tablet!</p>
         <p class="max-resolution__text max-resolution__text--notebook">Parece que sua resolução é a de um Notebook!</p>
         <p class="max-resolution__text">Tente acessar em um celular.</p>
-    </div>
+    </section>
 </body>
 </html>
