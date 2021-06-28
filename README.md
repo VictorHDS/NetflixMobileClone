@@ -19,8 +19,8 @@ This was a challenge from "Maratonas Academy", where we clone the mobile version
 The live version of the website can be accessed at: https://netflixmobile.vercel.app
 
 ## Screenshots:
-!["Index" Page](./screenshots/NetflixMobile_IndexPage.jpg)
-!["Choose Profile" Page](./screenshots/NetflixMobile_ProfilePage.jpg)
+!["Index" Page](./screenshots/NetflixMobile_IndexPage.png)
+!["Choose Profile" Page](./screenshots/NetflixMobile_ProfilePage.png)
 !["Home" Page Screenshot #1](./screenshots/NetflixMobile_HomePage-01.png)
 !["Home" Page Screenshot #2](./screenshots/NetflixMobile_HomePage-02.png)
 !["Search" Page](./screenshots/NetflixMobile_SearchScreen.png)
@@ -28,5 +28,5 @@ The live version of the website can be accessed at: https://netflixmobile.vercel
 !["Coming Soon" Page Screenshot #2](./screenshots/NetflixMobile_ComingSoonPage-02.png)
 !["Downloads" Page](./screenshots/NetflixMobile_DownloadsPage.png)
 !["More" Page](./screenshots/NetflixMobile_MorePage.png)
-![Tablet Size Warning](./screenshots/Load_Warning_TabletVersion.jpg)
-![Notebook Size Warning](./screenshots/Load_Warning_NotebookVersion.jpg)
+![Tablet Size Warning](./screenshots/Load_Warning_TabletVersion.png)
+![Notebook Size Warning](./screenshots/Load_Warning_NotebookVersion.png)
