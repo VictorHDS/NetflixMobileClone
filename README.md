@@ -1,4 +1,4 @@
-# Maratona Clonando a Netflix
+# Netflix Clone
 
 ## Technologies Used:
 * HTML;
@@ -19,8 +19,8 @@ This was a challenge from "Maratonas Academy", where we clone the mobile version
 The live version of the website can be accessed at: https://netflixmobile.vercel.app
 
 ## Screenshots:
-!["Index" Page](./screenshots/NetflixMobile_IndexPage.png)
-!["Choose Profile" Page](./screenshots/NetflixMobile_ProfilePage.png)
+!["Index" Page](./screenshots/NetflixMobile_IndexPage.jpg)
+!["Choose Profile" Page](./screenshots/NetflixMobile_ProfilePage.jpg)
 !["Home" Page Screenshot #1](./screenshots/NetflixMobile_HomePage-01.png)
 !["Home" Page Screenshot #2](./screenshots/NetflixMobile_HomePage-02.png)
 !["Search" Page](./screenshots/NetflixMobile_SearchScreen.png)
