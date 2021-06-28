@@ -1,12 +1,19 @@
-# Music Playlist
+# Maratona Clonando a Netflix
 
-## Welcome
+## Technologies Used:
+* HTML;
+* CSS;
+* GIT;
+* GitHub;
+* Vercel (Deploy).
 
-### Hello World --> challenge delivered a little late.
+## Standardizations:
+* HTML: Semantic Tags;
+* CSS: BEM (Block Element Modifier);
+* GIT: Conventional Commits.
 
-### Some little problems with the schedule.
+## Description:
+This was a challenge from "Maratonas Academy", where we clone the mobile version of Netflix.
 
-
-## To scrolling in width, try "Shift + MMB"
-
-### Load component for Media Querie added
+## Website:
+The live version of the website can be accessed at: https://netflixmobile.vercel.app
