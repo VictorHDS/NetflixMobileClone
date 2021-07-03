@@ -18,6 +18,11 @@ This was a challenge from "Maratonas Academy", where we clone the mobile version
 ## Website:
 The live version of the website can be accessed at: https://netflixmobile.vercel.app
 
+## Notes:
+In order for you to be successful in viewing this project through a device other than a cell phone:
+* In your browser, go to "inspect element";
+* Select "enable/disable device preview" option.
+
 ## Screenshots:
 !["Index" Page](./screenshots/NetflixMobile_IndexPage.png)
 !["Choose Profile" Page](./screenshots/NetflixMobile_ProfilePage.png)
