@@ -34,3 +34,8 @@ body{
     margin-top: 14px;
     margin-bottom: 22px;
 }
+.bottom-navbar__background{
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+}

@@ -18,3 +18,13 @@ body{
     position: fixed;
     bottom: 0;
 }
+.search-movie__img{
+    width: 146px;
+    height: 76px;
+}
+.search-movie__play__text{
+    margin-left: 14px;
+}
+.search-movie__play--button{
+    margin-right: 6px;
+}

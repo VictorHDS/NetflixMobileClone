@@ -23,3 +23,8 @@
 .settings{
     margin-bottom: 81px;
 }
+.bottom-navbar__background{
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+}
