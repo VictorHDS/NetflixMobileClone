@@ -29,5 +29,3 @@ The live version of the website can be accessed at: https://netflixmobile.vercel
 !["Coming Soon" Page Screenshot #2](./screenshots/NetflixMobile_ComingSoonPage-02.png)
 !["Downloads" Page](./screenshots/NetflixMobile_DownloadsPage.png)
 !["More" Page](./screenshots/NetflixMobile_MorePage.png)
-![Tablet Size Warning](./screenshots/Load_Warning_TabletVersion.png)
-![Notebook Size Warning](./screenshots/Load_Warning_NotebookVersion.png)
