@@ -22,7 +22,6 @@ The live version of the website can be accessed at: https://netflixmobile.vercel
 In order for you to be successful in viewing this project through a device other than a cell phone:
 * In your browser, go to "inspect element";
 * Select "enable/disable device preview" option.
-asdfasdfasdfasdf
 
 ## Screenshots:
 !["Index" Page](./screenshots/NetflixMobile_IndexPage.png)
