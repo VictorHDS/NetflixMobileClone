@@ -1,5 +1,7 @@
 # Netflix Clone
 
+Clone of Netflix Mobile Version design and blocking made with HTML, CSS, Figma and Vercel.
+
 ## Technologies Used:
 * HTML;
 * CSS;
@@ -8,9 +10,9 @@
 * Vercel (Deploy).
 
 ## Standardizations:
-* HTML: Semantic Tags;
-* CSS: BEM (Block Element Modifier);
-* GIT: Conventional Commits.
+* HTML - Semantic Tags;
+* CSS - BEM (Block Element Modifier);
+* GIT - Conventional Commits.
 
 ## Description:
 This was a challenge from "Maratonas Academy", where we clone the mobile version of Netflix.
